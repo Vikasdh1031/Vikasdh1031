@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi , I'm Vikas D H
+Backend Developer | Java | Spring Boot
 
-<!--
-**Vikasdh1031/Vikasdh1031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Information Science Engineering Student
+ Learning Backend Development
+ Java, Spring Boot, MySQL
+ Improving DSA daily
+
+---
+
+ Skills
+
+* Java, SQL
+* Spring Boot, REST APIs
+* HTML, CSS, JavaScript
+* MySQL
+
+---
+
+ Projects
+
+* Employee Management System
+* Healthcare Dispatcher
+* TexFusion AI
+
+---
+
+ Contact
+
+* GitHub: https://github.com/Vikasdh1031
