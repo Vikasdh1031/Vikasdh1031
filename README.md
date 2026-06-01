@@ -118,6 +118,6 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [vikasdh1031@gmail.com](mailto:vikasdh1031@gmail.com)
-* 💼 LinkedIn: {https://www.linkedin.com/in/vikas-d-h-a83ab0350)
+* 💼 LinkedIn: https://www.linkedin.com/in/vikas-d-h-a83ab0350
 * 🐙 GitHub: https://github.com/Vikasdh1031
 
