@@ -2,7 +2,7 @@
 
 ### Full Stack Java Developer | Java | Spring Boot | React
 
-🎓 Information Science Engineering Graduate with a CGPA of 8.6.
+🎓 Information Science Engineering Graduate (2026) with a CGPA of 8.6.
 
 💻 Passionate about building scalable web applications, backend systems, and AI-powered solutions.
 
@@ -118,11 +118,6 @@
 ## 📫 Connect With Me
 
 * 📧 Email: [vikasdh1031@gmail.com](mailto:vikasdh1031@gmail.com)
-* 💼 LinkedIn: Add Your LinkedIn Profile Link Here
+* 💼 LinkedIn: {https://www.linkedin.com/in/vikas-d-h-a83ab0350)
 * 🐙 GitHub: https://github.com/Vikasdh1031
 
----
-
-### 💡 Motto
-
-"Consistency beats talent when talent doesn't work consistently."
